@@ -335,7 +335,7 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 0331,,315,,no entry,unknown,1859-11-11,M,29,Single,1,Disappointed ambition,Stress; Financial,Situational,,,6 months,Mania,Mania,,,NC,Edgecombe County,,1860-07-03,,Cured,,Assumed White
 0332,,315,,no entry,unknown,1859-11-14,M,25,Single,2,Ill Health,Ill Health,Physical,,,5 years,Dementia,Dementia,,,NC,Randolph County,,1861-02-26,,Removed,,Assumed White
 0333,,315,,no entry,unknown,1859-11-15,F,38,Single,1,Domestic Trouble,Domestic Troubles,Situational,,,2 years,Mania,Mania,,,NC,Lincoln County,,1870-06-10,10y;5m;25d,Died,Ovarian dropsy,Assumed White
-0334,,315,,no entry,unknown,2018-11-22,F,25,Single,1,Unknown,Unknown,,,,10 years,Mania,Mania,,,NC,Perquimans County,,1864-05-31,,Cured,,Assumed White
+0334,,315,,no entry,unknown,1859-11-22,F,25,Single,1,Unknown,Unknown,,,,10 years,Mania,Mania,,,NC,Perquimans County,,1864-05-31,,Cured,,Assumed White
 0335,,315,,no entry,unknown,1859-11-25,F,36,Single,2,Loss of Property,Grief; Financial,Situational,,,1 year,Mania,Mania,,,NC,Richmond County,,1860-02-22,,Removed,,Assumed White
 0336,,315,,no entry,unknown,1859-12-06,M,42,Single,1,Family troubles,Stress; Relational,Situational,,,1 month,Mania,Mania,,,NC,Warren County,,1860-02-18,,Cured,,Assumed White
 0337,,315,,no entry,unknown,1859-12-10,M,20,Single,1,Masturbation,Masturbation,Physical,,,8 months,Mania,Mania,,,NC,Forsyth County,,1871-11-30,11y;11m;10d,Improved,By order of Executive Committee,Assumed White
@@ -752,7 +752,7 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 0747,,725,,no entry,unknown,1867-05-11,F,17,Single,1,Menstral difficulty,Ill Health; Reproductive,Physical,,,2 months,Mania,Mania,,,NC,Wilson County,,1867-11-21,,Cured,,Assumed White
 0748,,725,,no entry,unknown,1867-05-15,F,29,Single,1,Ill health,Ill Health,Physical,,,10 years,Melancholia,Melancholia,,,NC,Guilford County,,1883-12-24,16y;7m;9d,Improved,,Assumed White
 0749,,749,,no entry,unknown,1867-05-24,M,46,Single,1,Epilepsy,Epilepsy,Physical,,,10 years,Mania,Mania,,,NC,Burke County,,1872-09-17,5y;3m;23d,Unimproved; Removed,By order of Executive Committee,Assumed White
-0750,,749,,no entry,unknown,4867-06-04,M,61,Married,,Loss of Property,Grief; Financial,Situational,,,2 weeks,Imbecility,Imbecility,,,NC,Guilford County,,1867-06-09,,Improved; Died,Died of general Paralysis,Assumed White
+0750,,749,,no entry,unknown,1867-06-04,M,61,Married,,Loss of Property,Grief; Financial,Situational,,,2 weeks,Imbecility,Imbecility,,,NC,Guilford County,,1867-06-09,,Improved; Died,Died of general Paralysis,Assumed White
 0751,,749,,no entry,unknown,1867-06-14,F,37,Married,1,Gestation,Pregnancy,Physical,,,7 months,Melancholia,Melancholia,,,NC,Mecklenburg County,,1867-08-22,,Improved; Removed,,Assumed White
 0752,,749,,no entry,unknown,1867-07-03,F,48,Single,1,Unknown,Unknown,,,,20 years,Mania,Mania,,,NC,Wake County,,1900-01-26,32y;6m;23d,Died,Exhaustion from Pneumonia,Assumed White
 0753,,749,,no entry,unknown,1867-07-06,M,44,Single,1,Unknown,Unknown,,,,12 years,Mania,Mania,,,NC,Orange County,,1871-06-28,3y;11m;25d,Improved,Removed to make room for an acute case,Assumed White
@@ -1696,7 +1696,8 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 1691,,1679,Housewife,housewife,household,1885-08-01,F,47,Married,1,Abortion,Pregnancy; Abortion,Physical,,,5 years,Mania,Mania,,,NC,Alamance County,1,1891-06-29,5y;10m;28d,Died,Tuberculosis,Assumed White
 1692,,1679,Housewife,housewife,household,1885-08-04,F,24,Married,1,Ill Health,Ill Health,Physical,,,3 months,Mania,Mania,,,NC,Alamance County,1,,,,,Assumed White
 1693,,1679,Housewife,housewife,household,1885-08-06,F,36,Married,1,Unknown,Unknown,,,,6 years,Mania,Mania,,,NC,Guilford County,1,1886-04-17,0y;8m;11d,Cured,,Assumed White
-1694,,1679,Secton Master or RRx,section master; railroad,skilled labor,1885-08-07,M,40,Married,1,Sunstroke,Ill Health; Exposure,Physical,,,8 years,Mania,Mania,,,NC,Cumberland County,2,1890-10-01/1891-03-17,_ _ _ 5y;7m;10d,Cured,"and discharged Mar. 17, 1891 by order of Ex. Com.",Assumed White
+1694,,1679,Secton Master or RRx,section master; railroad,skilled labor,1885-08-07,M,40,Married,1,Sunstroke,Ill Health; Exposure,Physical,,,8 years,Mania,Mania,,,NC,Cumberland County,2,1890-10-01,,,,Assumed White
+1694,,1679,Secton Master or RRx,section master; railroad,skilled labor,1885-08-07,M,40,Married,1,Sunstroke,Ill Health; Exposure,Physical,,,8 years,Mania,Mania,,,NC,Cumberland County,2,1891-03-17,5y;7m;10d,Cured,"and discharged Mar. 17, 1891 by order of Ex. Com.",Assumed White
 1695,,1679,Farmer,farmer,agriculture,1885-08-07,M,70,Widowed,1,Religious Excitement,Emotionality; Religious,Situational,,,1 year,Mania,Mania,,Hereditary,NC,Pitt County,1,1885-10-13,0y;2m;6d,Cured,,Assumed White
 1696,,1679,Farmer,farmer,agriculture,1885-08-12,M,54,Widowed,1,Grief,Grief,Situational,,,1 month,Melancholia,Melancholia,,,NC,Wake County,1,1886-07-18,0y;11m;6d,Cured,,Assumed White
 1697,,1679,Housewife,housewife,household,1885-08-13,F,38,Married,3,Ill Health,Ill Health,Physical,,,8 years,Melancholia,Melancholia,,Hereditary,NC,Halifax County,2,1894-10-03,13y;10m;1d,,Discharged Oct. 3 - 1894,Assumed White
@@ -2706,7 +2707,7 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 2698,,2693,Laborer,laborer,unskilled labor,1896-05-16,F,14,Single,1,Suspension of menses,Ill Health; Reproductive,Physical,,,6 weeks,Mania,Mania,14,,NC,Johnston County,,1898-11-25,1y;9m;10d,Cured,Discharged,Assumed White
 2699,,2693,Housekeeper,housekeeper,household,1896-05-16,F,31,Single,1,Over heated,Ill Health; Exposure,Physical,,,11 months,Dementia,Dementia,30,Suicidal,NC,Chatham County,,1899-01-02,2y;7m;16d,Died,Probated - Oct 19-1897. Died Jan 2 - 1899. Pneumonia,Assumed White
 2700,,2693,Architect,architect,professional,1896-05-16,M,36,Married,1,Railroad injury,Injury,Physical,,,2 weeks,Traumatic Insanity,Traumatic Insanity,36,,NC,Wake County,,1896-08-12,0y;2m;28d,Cured,,Assumed White
-2701,,2693,Policeman,law enforcement officer,government,1896-05-18,M,37,Married,2,Alcoholism,Drugs; Alcohol,Physical,,,2 weeks,Dipsomania,Alcoholism,32,,NC,Wayne County,,18996-11-30,0y;6m;12d,Cured,,Assumed White
+2701,,2693,Policeman,law enforcement officer,government,1896-05-18,M,37,Married,2,Alcoholism,Drugs; Alcohol,Physical,,,2 weeks,Dipsomania,Alcoholism,32,,NC,Wayne County,,1896-11-30,0y;6m;12d,Cured,,Assumed White
 2702,,2693,Farmer,farmer,agriculture,1896-05-18,M,44,Single,1,Sun Stroke,Ill Health; Exposure,Physical,,,1.5 years,Mania,Mania,42,,NC,Wake County,,1897-02-28,0y;9m;10d,Died,Erysipelas,Assumed White
 2703,,2693,Housekeeper,housekeeper,household,1896-05-26,F,56,Widowed,1,Ill Health,Ill Health,Physical,,,2 weeks,Dementia,Dementia,56,Hereditary; Suicidal,NC,Cumberland County,,1898-04-08,1y;10m;12d,Died,Chronic Diarrhea,Assumed White
 2704,,2693,Housewife,housewife,household,1896-05-30,F,45,,1,Don't know,Unknown,,,,1 year,Mania Chronic,Mania; Chronic,45,,NC,Wilson County,,1896-11-30,0y;6m;0d,Cured,,Assumed White
@@ -3885,7 +3886,7 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 3877,,3875,Housekeeper,housekeeper,household,1903-03-09,F,38,Single,1,Epilepsy,Epilepsy,Physical,,,35 years,Epileptic mania,Epilepsy,12,,NC,Granville County,1,1906-01-04,2y;9m;25d,Died,Exhaustion from Epileptic Mania,Assumed White
 3878,,3875,Livery man,liveryman,service,1903-03-10,M,30,Single,1,Reverses,Stress; Financial,Situational,,,15 months,Melancholia,Melancholia,29,,NC,Cumberland County,,1904-11-30,1y;8m;20d,Cured,,Assumed White
 3879,,3875,House keeper,housekeeper,household,1903-03-11,F,28,Single,1,Disappoint. in Love,Grief; Relational,Situational,,,3 weeks,Melancholia,Melancholia,20,Suicidal,NC,Johnston County,,1904-11-30,1y;8m;19d,Cured,Restored,Assumed White
-3880,,3875,Laborer,laborer,unskilled labor,2018-03-11,M,24,Single,2,Typhoid fever,Ill Health; Typhoid,Physical,,,3 weeks,Rec. Mania,Mania; Recurrent,23,,NC,Duplin County,,1904-05-27,1y;2m;16d,Died,Exhaustion from Chronic Mania,Assumed White
+3880,,3875,Laborer,laborer,unskilled labor,1903-03-11,M,24,Single,2,Typhoid fever,Ill Health; Typhoid,Physical,,,3 weeks,Rec. Mania,Mania; Recurrent,23,,NC,Duplin County,,1904-05-27,1y;2m;16d,Died,Exhaustion from Chronic Mania,Assumed White
 3881,,3875,Merchant,merchant,sales,1903-03-12,M,32,Single,1,Whiskey,Drugs; Alcohol,Physical,,,5 years,Alcoholic Mania,Alcoholism,27,,NC,Franklin County,,1903-06-12,0y;3m;0d,Cured,Restored,Assumed White
 3882,,3875,Laborer,laborer,unskilled labor,1903-03-12,M,40,Married,2,Poverty,Poverty,Situational,,,3 years,Melancholia,Melancholia,37,Suicidal,NC,Durham County,,1904-11-30,1y;8m;18d,Cured,,Assumed White
 3883,,3875,Farmer,farmer,agriculture,1903-03-14,M,50,Married,2,Domestic Infelicity,Grief; Relational,Situational,Domestic Troubles,Situational,5 months,Rec. mania,Mania; Recurrent,49,,NC,Jones County,,1917-03-15,13y;11m;23d,Died,Appoplexy,Assumed White
@@ -3907,8 +3908,8 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 3899,,3899,Bartender,bartender,service,1903-05-10,M,32,Married,1,Financial trouble,Stress; Financial,Situational,,,22 days,ac. mania,Mania; Acute,32,Suicidal,NC,Edgecombe County,,1903-05-30,0y;0m;20d,Died,Exhaustion from acute mania,Assumed White
 3900,,3899,House wife,housewife,household,1903-05-16,F,38,Married,1,Premature Labor,Pregnancy,Physical,,,1.5 years,Puerperal Mania,Mania; Puerperal,36,,NC,Sampson County,,1904-11-30,1y;6m;14d,Cured,Restored,Assumed White
 3901,,3899,Farmer,farmer,agriculture,1903-05-19,M,53,Married,1,Attempting to get Perpetual Motion,Unknown,,,,1 week,Acute Mania,Mania; Acute,53,,NC,Chatham County,,1904-11-30,1y;6m;11d,Cured,,Assumed White
-3902,,3899,None,none,none,2018-05-19,M,28,Single,2,Morph. + Cocaine,Drugs; Cocaine; Opiates,Physical,,,2 years,Toxic Mania,Mania; Toxic,26,,NC,Wake County,,1903-07-18,0y;2m;0d,Cured,,Assumed White
-3903,,3899,Farmer,farmer,agriculture,1903-05-22,M,58,Married,1,Jealousy,Jealousy,Situational,,,1 year,Ill health,Ill Health,57,,NC,Franklin County,,18904-11-30,1y;6m;8d,Cured,,Assumed White
+3902,,3899,None,none,none,1903-05-19,M,28,Single,2,Morph. + Cocaine,Drugs; Cocaine; Opiates,Physical,,,2 years,Toxic Mania,Mania; Toxic,26,,NC,Wake County,,1903-07-18,0y;2m;0d,Cured,,Assumed White
+3903,,3899,Farmer,farmer,agriculture,1903-05-22,M,58,Married,1,Jealousy,Jealousy,Situational,,,1 year,Ill health,Ill Health,57,,NC,Franklin County,,1904-11-30,1y;6m;8d,Cured,,Assumed White
 3904,,3899,Farmer,farmer,agriculture,1903-05-22,M,59,Married,1,Age,Age,Physical,,,1 year,Senile Dem.,Dementia; Senile,58,,NC,Cumberland County,,1903-11-20,0y;5m;29d,Died,Apoplexy (Senile Dementia),Assumed White
 3905,,3899,Farmer,farmer,agriculture,1903-05-27,M,60,Single,1,Religion,Emotionality; Religious,Situational,,,2 years,Religious Ma.,Mania; Religious,58,,NC,Robeson County,,1903-08-11,0y;2m;15d,Improved,"Harmless, Dis. at request of family",Assumed White
 3906,,3899,Mechanic,mechanic,skilled labor,1903-05-27,M,36,Married,1,Unknown,Unknown,,,,3 weeks,Melancholia,Melancholia,36,,NC,Craven County,,1904-11-30,1y;6m;3d,Cured,,Assumed White
@@ -4831,7 +4832,7 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 4822,,4810,Housewife,housewife,household,1909-01-18,F,45,Married,1,Unknown,Unknown,,,,3 years,Subacute Mania,Mania; Subacute,42,,NC,New Hanover County,,1909-03-10,0y;1m;22d,Died,Suicide by hanging herself with piece of sheet over door,Assumed White
 4823,,4810,Farmer,farmer,agriculture,1909-01-19,M,37,Single,1,Epilepsy,Epilepsy,Physical,,,15 years,Epileptic Mania,Epilepsy,22,,NC,Pitt County,,1909-10-04,0y;8m;16d,,Exhaustion from Epilepsy + Diarrhea,Assumed White
 4824,,4810,Druggist,pharmacist,professional,1909-01-21,M,60,Married,1,Whiskey + Morphine,Drugs; Alcohol; Opiates,Physical,,,10 years,Melancholia,Melancholia,49,,NC,Chowan County,,1909-02-24,0y;1m;3d,Died,Diabetes Mellitus,Assumed White
-4825,,4810,Mill hand,laborer; mill,unskilled labor,2018-01-22,F,34,Widowed,2,Uremia,Ill Health,Physical,,,6 months,Recur. Mania,Mania; Recurrent,,,NC,Cumberland County,,1909-08-24,0y;2m;2d,Unimproved,Unimproved,Assumed White
+4825,,4810,Mill hand,laborer; mill,unskilled labor,1909-01-22,F,34,Widowed,2,Uremia,Ill Health,Physical,,,6 months,Recur. Mania,Mania; Recurrent,,,NC,Cumberland County,,1909-08-24,0y;2m;2d,Unimproved,Unimproved,Assumed White
 4826,,4810,House wife,housewife,household,1909-01-22,F,40,Married,6,Unknown,Unknown,,,,20 years,Chronic Mania,Mania; Chronic,20,Suicidal,NC,Robeson County,,1910-02-23,1y;1m;1d,Died,Pneumonia [?],Assumed White
 4827,,4810,House wife,housewife,household,1909-01-23,F,48,Married,1,Unknown,Unknown,,,,1.5 years,Chronic Mania,Mania; Chronic,46,,NC,Carteret County,,1910-11-23,1y;10m;5d,Cured,,Assumed White
 4828,,4810,House wife,housewife,household,1909-01-24,F,60,Married,1,Unknown,Unknown,,,,7 years,Chronic Mania,Mania; Chronic,50,,NC,Carteret County,,1910-11-23,1y;10m;4d,Cured,,Assumed White
@@ -7135,7 +7136,7 @@ Patient ID,Patient Number Ext,Located In,Occupation as Transcribed,Occupation Cl
 7149,,7134,Farmer; Painter,farmer; painter,agriculture; semi-skilled labor,1916-07-08,M,31,Single,4,Cigarettes tobacco,Drugs; Tobacco,Physical,,,8 days,D. Praecox,Dementia Praecox,29,,NC,Vance County,,1916-11-30,0y;4m;22d,Improved,,Assumed White
 7150,,7134,House wife,housewife,household,1916-07-10,F,38,Married,1,Heredity,Heredity,Physical,,,5 years,Dem Praecox,Dementia Praecox,33,Hereditary,NC,Beaufort County,,,,,,Assumed White
 7151,,7134,none,none,none,1916-07-17,F,34,Married,Several,Epilepsy,Epilepsy,Physical,,,4 years,Epilepsy,Epilepsy,29,,NC,Stokes County,,1917-05-28,0y;10m;11d,Died,Died May 28 - 1917 of Exhaustion from Epi. Seizures,Assumed White
-7152,,7134,Mill work,worker; mill,unskilled labor,1916-07-19,M;F,21,Single,1,Pellagra,Ill Health; Pellagra,Physical,,,12 days,Pellagra,Pellagrous Psychosis,21,Suicidal,NC,Robeson County,,1916-08-13,0y;0m;24d,Died,Pellagra,Assumed White
+7152,,7134,Mill work,worker; mill,unskilled labor,1916-07-19,M,21,Single,1,Pellagra,Ill Health; Pellagra,Physical,,,12 days,Pellagra,Pellagrous Psychosis,21,Suicidal,NC,Robeson County,,1916-08-13,0y;0m;24d,Died,Pellagra,Assumed White
 7153,,7134,Farmer,farmer,agriculture,1916-07-19,M,43,Single,1,Masturbation,Masturbation,Physical,,,10 years,,,33,Suicidal,NC,Alamance County,,1916-11-30,0y;4m;10d,Improved,Discharged,Assumed White
 7154,,7134,House work,housekeeper,household,1916-07-24,F,27,Married,1,Worry,Worry,Situational,,,7 months,Praecox,Dementia Praecox,27,,NC,Duplin County,,,,,,Assumed White
 7155,,7134,House wife,housewife,household,1916-07-24,F,36,Married,1,Poor health,Ill Health,Physical,,,9 months,Brain Syphilis,Neurosyphilis,36,,NC,Pitt County,,1916-12-16,0y;4m;22d,Improved,"Discharged - Died of Pneumonia in jail at May, March 24, 1917",Assumed White
