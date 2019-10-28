@@ -4,7 +4,7 @@
 We are analyzing the historical intake ledger from Dorothea Dix Hospital (Asylum) in Raleigh, North Carolina. The intake ledger starts in 1865 and contains about 7,500 records through 1917. The hospital is permanently closed, all the patients being analyzed have passed away, and these are de-identified data from public records. Currently we are cleaning and processing the OCR data from the physical ledgers and creating variables for historical and epidemiologic analysis. The full [Legacy Report](https://dixpark.org/sites/dixpark/files/2018-11/Dix%20Park_Full%20Legacy%20Report_2018.pdf) provides an extensive history.<br>
 
 ## Why it matters
-From the Final Report of the Dix Legacy Committee:
+From the [Final Report](https://dixpark.org/sites/dixpark/files/2018-11/Dix%20Park_Full%20Legacy%20Report_2018.pdf) of the Dix Legacy Committee:
 >"Dix Park has a complex and driving history on this particular piece of land. This land in Raleigh has seen Native Americans, a plantation with enslaved African Americans owned by one of the founders of the City of Raleigh, a Union soldier encampment at the end of the Civil War, a psychiatric hospital for 156 years, cemeteries, and a struggle over the future of 21st Century mental health reform policy. <br>
 
 >Positive aspects of its history include the establishment of an “insane asylum” in 1856 that represented at the time a tremendous shift in cultural attitudes toward people living with mental illness, a movement led nationally by Dorothea Dix. Dix Hospital was a psychiatric hospital, a retreat for the vulnerable, a home to staff and their families, a restoration center for patients, a training facility, and a center of health care innovation.<br>
