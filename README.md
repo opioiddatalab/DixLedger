@@ -1,7 +1,7 @@
 # Historical Analysis of Dix Asylum (1865-1917)
 
 ## What we are studying
-We are analyzing the historical intake ledger from Dorothea Dix Hospital (Asylum) in Raleigh, North Carolina. The intake ledger starts in 1865 and contains about 7,500 records through 1917. The hospital is permanently closed, all the patients being analyzed have passed away, and these are de-identified data from public records. Currently we are cleaning and processing the OCR data from the physical ledgers and creating variables for historical and epidemiologic analysis. The full [Legacy Report](https://dixpark.org/sites/dixpark/files/2018-11/Dix%20Park_Full%20Legacy%20Report_2018.pdf) provides an extensive history.<br>
+We are analyzing the historical intake ledger from Dorothea Dix Hospital (Asylum) in Raleigh, North Carolina. The intake ledger starts in 1865 and contains about 7,500 records through 1917. The hospital is permanently closed, all the patients being analyzed have passed away, and these are de-identified data from public records. Currently we are cleaning and processing the OCR data from the physical ledgers and creating variables for historical and epidemiologic analysis. The full [Legacy Report](https://dixpark.org/sites/dixpark/files/2018-11/Dix%20Park_Full%20Legacy%20Report_2018.pdf) provides an extensive history. In addition to descriptive statistics and data visualizations, we will also examine opioid use during this period of history.<br>
 
 ## Why it matters
 From the [Final Report](https://dixpark.org/sites/dixpark/files/2018-11/Dix%20Park_Full%20Legacy%20Report_2018.pdf) of the Dix Legacy Committee:
