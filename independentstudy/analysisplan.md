@@ -8,5 +8,5 @@ The purpose of this independent study is to analyze, visualize, and communicate 
 1.	Create data visualizations to disseminate to the public via website.
 1.	Present findings to relevant community stakeholders.
 
-*Work plan*
+*Work plan*<br>
 The data will be prepared for quantitative and qualitative analysis and then analyzed using appropriate software. Results of preliminary data analysis will be compiled into a report. Results of data analysis will be used to create visualizations, including maps and graphs, and compiled into a report. Data visualizations will be made publicly available via a website and presented to relevant community stakeholders.
