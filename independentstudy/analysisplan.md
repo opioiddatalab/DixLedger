@@ -10,3 +10,16 @@ The purpose of this independent study is to analyze, visualize, and communicate 
 
 *Work plan*<br>
 The data will be prepared for quantitative and qualitative analysis and then analyzed using appropriate software. Results of preliminary data analysis will be compiled into a report. Results of data analysis will be used to create visualizations, including maps and graphs, and compiled into a report. Data visualizations will be made publicly available via a website and presented to relevant community stakeholders.
+
+*Timeline and key dates*<br>
+
+| Date     | Deliverable |
+| ----------- | ----------- |
+| Every Friday by 5pm | Weekly email updates to instructor (and community stakeholders when relevant) |
+| February 6   | Complete data cleaning and determine variables of interest        |
+| February 27      | Submit data analysis report to instructor        |
+| March 26   | Submit draft visualizations to instructor       |
+| April 2      | Submit data visualizations report to instructor       |
+| April 16   | Presentation of website draft to instructor       |
+| April 24  | Final website launch       |
+| April (TBD)  | Final presentation to relevant community stakeholders        |
