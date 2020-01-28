@@ -1,4 +1,4 @@
-The [original de-identified intake ledger dataset](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDeidentified.csv) was received from Sarah Almond on September 16, 2019, and subsequently processed by Nabarun Dasgupta using the Stata code [DixLedgerDataCleaning.do](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDataCleaning.do).
+The [original de-identified intake ledger dataset](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDeidentified.csv) was received from Sarah Almond on September 16, 2019, and subsequently processed by Nabarun Dasgupta using the Stata code [DixLedgerDataCleaning.do](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDataCleaning.do). The [codebook](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerCodebook.pdf) is a good starting place.
 
 Cleaned versions in [CSV](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDeidentified_clean.csv) and [Stata](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDeidentified_clean.dta) formats are available in this directory.
 
