@@ -1,4 +1,6 @@
-This is the de-identified dataset received from Sarah Almond on September 16, 2019, and subsequently processed by Nabarun Dasgupta using the Stata code DixLedgerDataCleaning.do
+The [original de-identified intake ledger dataset](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDeidentified.csv) was received from Sarah Almond on September 16, 2019, and subsequently processed by Nabarun Dasgupta using the Stata code [DixLedgerDataCleaning.do](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDataCleaning.do).
 
-This [quick tutotiral](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) will allow you to remotely retrieve the latest version of the CSV in a command line software. But I couldn't figure out exactly how to make it work within Stata (or Python), so you can just download the CSV or .dta files in this directory. :)
-I'm also posting the data cleaning code in this directory so it is all in one place.
+Cleaned versions in [CSV](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDeidentified_clean.csv) and [Stata](https://github.com/opioiddatalab/DixLedger/blob/master/data/DixLedgerDeidentified_clean.dta) formats are available in this directory.
+
+Extra credit if you want to pull the latest version of the cleaned data file dynamically from GitHub from within Stata...
+This [tutotiral](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) will allow you to make a token, to use as a cURL in a command line. But I couldn't figure out exactly how to make it work within Stata (or Python), so you can just download the files in this directory instead. :)
