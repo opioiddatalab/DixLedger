@@ -7,6 +7,58 @@ import delimited "DixLedgerDeidentified.csv", clear
 gen counter=1
     la var counter "Equals one for each row observation"
 
+// Age cleanup
+qui tab age, m
+la var age "Age at admission in years (cleaned)"
+
+* missing
+replace age="" if regexm(lower(age),"unk")
+	replace age="" if age=="?"
+
+* pick median of literal age ranges
+replace age = "33" if age=="30-35?"
+replace age = "43" if age=="45 or 50"
+replace age = "43" if age=="45-50"
+replace age = "45" if age=="4_"
+replace age = "58" if age=="55 or 60"
+replace age = "73" if age=="70-5"
+
+* fraction to decimal and trim extra characters
+replace age = regexr(age," 1/2", ".5")
+replace age = regexr(age,"\+", "")
+replace age = regexr(age,"(\?)", "")
+
+replace age = "35" if age=="About 35"
+replace age = "58" if age=="58 ()"
+
+qui tab age, m
+
+* convert to numeric
+destring age, replace
+
+* Check for missing data
+mdesc age
+local miss=r(miss)
+local pct=round(r(percent),1.1)
+
+// Marital Status
+gen marital = .
+	quietly replace marital = 1 if maritalstatus=="Single"
+	quietly replace marital = 2 if maritalstatus=="Married"
+	quietly replace marital = 2 if maritalstatus=="Single;Married"
+	quietly replace marital = 3 if maritalstatus=="Widowed"
+	quietly replace marital = 3 if maritalstatus=="Married; Widowed"
+	quietly replace marital = 4 if maritalstatus=="Divorced"
+	quietly replace marital = 4 if maritalstatus=="Separated"
+	quietly replace marital = 9 if maritalstatus==""
+	quietly replace marital = 9 if maritalstatus=="unknown"
+	quietly replace marital = 9 if marital==.
+		la var marital "Marital status at admission (recoded)"
+			label define marlabel 1 "Single" 2 "Married" 3 "Widowed" 4 "Separated or Divorced" 9 "Unknown"
+				label values marital marlabel
+				
+	replace marital=. if marital==9
+	
 // Derived variables
 
 * Flag for farming occupation
@@ -47,7 +99,7 @@ local dx "war opiates alcohol cocaine masturbation overwork pregnancy syphilis m
 
 foreach i of local dx {
     gen `i'= regexm(lower(supposedcauseofattackastranscrib), "`i'") | regexm(lower(supposedcausecleaned1), "`i'") | regexm(lower(supposedcausecleaned2), "`i'")
-        note `i': Dichotmous flag derived from regular expression search of cause of attack as transcribed or recoded fields.
+        note `i': Dichotomous flag derived from regular expression search of cause of attack as transcribed or recoded fields.
             label values `i' yesno
 }
     
@@ -353,9 +405,17 @@ gen disdecade = .
     replace disdecade=8 if year(disdate)>=1920 & year(disdate)<=1929
         label values disdecade decadelabel
             la var disdecade "Decade of discharge"
-qui tab disdecade, m
 
-qui tab dayofweek, m
-
+// Decade weights
+bysort decade: egen temp=count(patientid) if decade!=.
+gen weight = (1/temp)*100
+    la var weight "Constructed per-patient-visit weight by calendar DECADE"
+drop temp
+export delimited using "DixLedgerDeidentified_clean.csv", delimiter(tab) replace
 save DixLedgerDeidentified_clean, replace
-export delimited using "DixLedgerDeidentified_clean.csv", delimiter(tab) 
+
+// Generate codebok
+note: Dataset for Dix Park (Raleigh) Intake Ledger. Dataset created by N. Dasgupta based on original data from Sarah Almong. See OpioidData.org for more details.
+		log using "DixIntakeLedgerCodebook.txt", text replace
+			codebook, h n
+				log close	
